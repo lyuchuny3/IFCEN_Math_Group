@@ -30,12 +30,11 @@
   - [article: about group](https://zhuanlan.zhihu.com/p/157126167)
 ### 2.Relations et ensembles N,Z,R
 - [ ] 平方倒数求和等于多少？立方倒数求和等于多少？探索一下
-  $$1+\frac{1}{2^2}+\frac{1}{3^2}+...+\frac{1}{n^2}=?$$
-  $$1+\frac{1}{2^3}+\frac{1}{3^3}+...+\frac{1}{n^3}=?$$
+  ![](images/f2.PNG)
 - [ ] Dürer's Magic Square(幻方)这张图右边是丢勒的一个版画作品，最底行中间是1514，是他母亲去世的年份。尝试自己推导这个4x4幻方![](https://www.agnesscott.edu/lriddle/women/abstracts/ollerenshaw/melancholia.jpg)
 - [ ] 知乎上关于稠密性有这么个比喻“一碗粥里面放满了香菜，如果你能一勺舀下去（勺的大小，舀的方式随你便），能够舀出一勺没有香菜的粥，就说明香菜在粥里面不是稠密的；如果你怎么都做不到这一点，就说明香菜在粥里面是稠密的。”你怎么看？如何证明有理数/无理数的稠密性？
 ### 3.Suites réelles ou complexes
 - [ ] 下列渐近分数有什么规律，极限是什么 
-  $$\frac{1}{1},\frac{2}{1},\frac{3}{2},\frac{5}{3},\frac{8}{5},\frac{13}{8},...$$
+  ![](images/f3.PNG)
 # Semestre 3
 待补充

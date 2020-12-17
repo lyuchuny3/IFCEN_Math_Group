@@ -1,3 +1,5 @@
+<p align="center"><img width="50%" src="images/logo.PNG" /></p>
+
 # IFCEN Math Group
 
 “法国数学为什么如此强大？”巴黎人回答,“我们最优秀的人学习数学。IFCEN的数学培养采用法国工程师体系进行培养，具有数学教育的先天优势，我们可以直接接触优秀的法语数学资源。但是，部分IFCENers在繁忙的课业中无法欣赏数学之美，部分学生学习的数学知识考后即忘。
@@ -12,11 +14,11 @@
 
 ## **可视化，math更直观**
 ## conrvergence simple? convergence uniforme?
-$$f_n(x)=\frac{sin(nx)}{1+nx^2}$$
+![](images/f1.PNG)
 ![](images/converge.gif)
 
 ## Archimede spiral
-<p align="left"><img width="80%" src="images/spiral.jpg" /></p>
+<p align="left"><img width="60%" src="images/spiral.jpg" /></p>
 
 ## Rianmann zeta function
 ![](images/zeta.jpg)
@@ -33,11 +35,11 @@ $$f_n(x)=\frac{sin(nx)}{1+nx^2}$$
   - [Chap3:The Complex Exponential Function](https://www.coursera.org/learn/complex-analysis#syllabus)
 ## Semestre 2
 - [ ] 平方倒数求和等于多少？立方倒数求和等于多少？探索一下
-  $$1+\frac{1}{2^2}+\frac{1}{3^2}+...+\frac{1}{n^2}=?$$
-  $$1+\frac{1}{2^3}+\frac{1}{3^3}+...+\frac{1}{n^3}=?$$
-- [ ] 下列渐近分数有什么规律，极限是什么 
-  $$\frac{1}{1},\frac{2}{1},\frac{3}{2},\frac{5}{3},\frac{8}{5},\frac{13}{8},...$$
 
+  ![](images/f2.PNG)
+- [ ] 下列渐近分数有什么规律，极限是什么 
+
+  ![](images/f3.PNG)
 - [ ] 为什么要学群论呢？谈谈你的看法：群论有什么用
   - [article:why groups?](https://kconrad.math.uconn.edu/blurbs/grouptheory/whygroups.pdf)
   - [article: about group](https://zhuanlan.zhihu.com/p/157126167)
