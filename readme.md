@@ -13,14 +13,14 @@
 
 
 ## **可视化，math更直观**
-## conrvergence simple? convergence uniforme?
+## convergence simple? convergence uniforme?
 ![](images/f1.PNG)
 ![](images/converge.gif)
 
 ## Archimede spiral
 <p align="left"><img width="60%" src="images/spiral.jpg" /></p>
 
-## Rianmann zeta function
+## Riemann zeta function
 ![](images/zeta.jpg)
 
 ## complex z square mapping
