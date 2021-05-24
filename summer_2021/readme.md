@@ -9,6 +9,7 @@
 1. 了解RSA加密算法，输出RSA算法描述(rsa.md文件)
 2. 证明费法小定理，输出数学证明(rsa.pdf)
 3. 编程实现RSA的加密&解密，输出程序(rsa.py)
+
 时间：2021.6.1-2021.8.30
 
 结果提交：
@@ -17,9 +18,7 @@
 3. 数学证明需打印数学公式，可考虑用texworks输出pdf
 4. github提交到本项目，通过pull request提交，提交到本目录下
 
-相关疑问：
-1. github issue
-2. weichat (lvchunying)
+相关疑问：通过 github issue提出
 
 
-课题2：待补充
+## 课题2：待补充
